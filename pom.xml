@@ -14,7 +14,8 @@
     <name>rent-a-home-bot</name>
     <description>rent-a-home-bot</description>
     <properties>
-        <java.version>11</java.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>
